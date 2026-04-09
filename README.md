@@ -4,9 +4,9 @@
 
 3. open folder
 
-4. locate 
+3.5 extract again....
 
-5. "valorattos.exe" 
+4. locate "valorattos.exe" 
 
 6. ???? 
 
